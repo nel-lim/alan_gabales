@@ -1,3 +1,6 @@
+/*instructor john nel lim 
+for final hands-on exam*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 :root{
 	
@@ -18,7 +21,7 @@
 	text-transform: capitalize;
 	transition: all .2s linear;
 }
-html{
+{
 	font-size: 62.5%;
 	overflow-x: hidden;
 	scroll-padding-top: 7rem;
@@ -66,8 +69,8 @@ section{
 .btn:hover{
 	background: var(--yellow);
 }
-.header{
-	position:fixed;
+.{
+	position: ;
 	top:0; left:0; right:0;
 	z-index: 999;
 	background: #fff;
@@ -83,11 +86,6 @@ section{
 	padding:none;
 }
 .header .logo img{
-	
-	height:7rem;
-	width:7rem;
-	width:100%;
-	
 	
 }	
 .header .navbar a{
@@ -212,6 +210,11 @@ body{
 	width:100%;
 	margin:rem 0;
 }
+
+/*instructor john nel lim 
+for final hands-on exam*/
+
+
 .icons-container{
 	padding-top: 5rem;
 	padding-bottom: 5rem;
@@ -588,6 +591,10 @@ body{
 
 
 
+	 
+	 
+	 
 
 
-
+/*instructor john nel lim 
+for final hands-on exam*/
